@@ -8,3 +8,5 @@
 /src/NerdStore.Core/obj
 /.vs/NerdStore/v17
 /.vs/NerdStore
+/tests/NerdStore.Catalogo.Domain.Tests/bin/Debug/net6.0
+/tests/NerdStore.Catalogo.Domain.Tests/obj
